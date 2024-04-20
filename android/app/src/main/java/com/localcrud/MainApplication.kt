@@ -1,4 +1,4 @@
-package com.localcrud
+package com.TodoList
 
 import android.app.Application
 import com.facebook.react.PackageList
